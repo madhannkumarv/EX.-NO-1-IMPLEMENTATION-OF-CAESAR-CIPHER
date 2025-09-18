@@ -46,7 +46,7 @@ void decode(char *str, int offset, char *result) {
 }
 
 int main() {
-    char msg[] = "hi vmk";
+    char msg[] = "MADHANN KUMAR V";
     char encoded[256];
     char decoded[256];
     
@@ -63,7 +63,6 @@ int main() {
 }
 ~~~
 ## OUTPUT:
-<img width="1920" height="1200" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/7f546cf9-47ee-4b61-8689-b6e99e2830fd" />
-
+<img width="1920" height="1200" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/186c3173-a14b-4a19-bdf6-bced5d1840a2" />
 ## RESULT :
  Thus the implementation of ceasar cipher had been executed successfully.
